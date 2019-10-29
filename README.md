@@ -1,5 +1,7 @@
 # ConcursodeProgramacionUNT2019
 
+Como se puede observar algunos problemas de Master y Cachimbo son los mismos
+
 # [Master Solutions](https://www.youtube.com/playlist?list=PLByjHlIXN2TG09bw3xgfDyuZrBrUkV8MN)
   
   * Estaciones Espaciales
