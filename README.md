@@ -6,7 +6,7 @@ Como se puede observar algunos problemas de Master y Cachimbo son los mismos
   
   * A. [Estaciones Espaciales](https://www.youtube.com/watch?v=l9O-EsW2gls)
   * B. [Encuentra un Subset](https://www.youtube.com/watch?v=uodNdpB4W_E&t=148s)
-  * C.Reinado Info
+  * C. [Reinado Info](https://www.youtube.com/watch?v=Iu0LpxZFt7k&t=20s)
   * D. [Un nuevo Juego](https://www.youtube.com/watch?v=9LS7Rmv3PUg)
   * E. [Evaluacion Posfija](https://www.youtube.com/watch?v=gRv3gVYcea4&t=403s)
   * F. [A Mezclar Palabras](https://www.youtube.com/watch?v=ekJ_h2C67xI)
